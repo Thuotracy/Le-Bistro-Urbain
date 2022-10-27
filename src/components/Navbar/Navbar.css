@@ -5,6 +5,8 @@
     align-items: center;
     background-color: var(--color-black);
     padding: 1rem 2rem;
+    /* position: fixed;
+    opacity: rgba(0, 0, 0, 0.466); */
 }
 
 .app__navbar-logo{
