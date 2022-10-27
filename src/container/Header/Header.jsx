@@ -8,7 +8,7 @@ const Header = () => (
   <div className='app__header app__wrapper section__padding' id='home' >
     <div className='app__wrapper_info'>
       <SubHeading title="" />
-      <h1 className='app__header-h1'>Choose the New FLAVOUR</h1>
+      <h1 className='app__header-h1'>Choose the New FLAVOR</h1>
       <p className='p__opensans' style={{ margin: '2rem 0'}}>
         Lorem ipsum, in graphical and textual context, refers to filler text that is placed in a document or visual presentation.
       </p>
