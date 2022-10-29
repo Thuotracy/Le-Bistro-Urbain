@@ -1,0 +1,19 @@
+.app__chef-content{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 5rem;
+}
+
+.app__chef-content_quote{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+.app__chef-content_quote img{
+    width: 45px;
+    height: 40px;
+    margin: 0 1rem 1rem 0;
+}
+
