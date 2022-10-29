@@ -6,10 +6,6 @@ import './Chef.css';
 
 const Chef = () => (
   <div className='app__bg app__wrapper section__padding'>
-    <div className='app__wrapper_img app__wrapper_img_reverse'>
-      <img src={images.chef} alt="chef" />
-    </div>
-
     <div className='app__wrapper_info'>
       <SubHeading title=''/>
       <h1 className='headtext__cornorant'>Our Belief</h1>
@@ -21,6 +17,10 @@ const Chef = () => (
         </div>
         <p className='p__opensans'>A great restaurant doesn't distinguish itself by how few mistakes it makes but by how well they handle those mistakes.</p>
       </div>
+    </div>
+
+    <div className='app__wrapper_img app__wrapper_img_reverse'>
+      <img src={images.chef} alt="chef" />
     </div>
   </div>
 );
