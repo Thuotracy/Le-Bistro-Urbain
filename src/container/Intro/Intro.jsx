@@ -33,7 +33,11 @@ const Intro = () => {
     <div className='app__video-overlay flex__center'>
       <div 
         className='app__video-overlay_circle flex__center'
-        onClick={handleVideo}></div>
+        onClick={handleVideo}>
+          {playVideo ? (
+            <BsPauseFill color='#fff' fontSize={30}/>
+          ) : <BsFillPlayFill color='#fff' fontSize={30}/>}
+        </div>
     </div>
   </div>
   )
