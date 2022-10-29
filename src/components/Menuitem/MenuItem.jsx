@@ -16,10 +16,10 @@ const MenuItem = ({title, price, tags}) => (
       </div>
     </div>
 
-    {/* <div className='app__menuitems-sub'>
+    <div className='app__menuitems-sub'>
       <p className='p__opensans' style={{color: '#AAA'}}>{tags}</p>
-    </div> */}
-    
+    </div> 
+     
   </div>
 );
 
