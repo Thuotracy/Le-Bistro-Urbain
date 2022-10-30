@@ -10,7 +10,7 @@ const Header = () => (
       <SubHeading title="" />
       <h1 className='app__header-h1'>Choose the New FLAVOR</h1>
       <p className='p__opensans' style={{ margin: '2rem 0'}}>
-        Lorem ipsum, in graphical and textual context, refers to filler text that is placed in a document or visual presentation.
+        Lorem ipsum, in graphical and textual context, refers to filler text that is placed in a document or visual presentation
       </p>
       <button type='button' className='custom__button'>View Menu</button>
     </div>
