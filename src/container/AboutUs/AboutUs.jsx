@@ -16,7 +16,7 @@ const AboutUs = () => (
         <p className='P__opensans'>Lorem Ipsum, In Graphical And Textual Context
          Refers To Filler Text That Is Placed In A Document Or Visual Presentation. Refers To Filler Text That Is Placed In A Document Or Visual Presentation.
         </p>
-        <button type='button' className='custom__button'>More</button>
+        <button type='button' className='custom__button'>View More</button>
       </div>
 
       <div className='app__aboutus-content_knife flex__center'>
@@ -29,7 +29,7 @@ const AboutUs = () => (
         <p className='P__opensans'>Lorem Ipsum, In Graphical And Textual Context,
          Refers To Filler Text That Is Placed In A Document Or Visual Presentation. Refers To Filler Text That Is Placed In A Document Or Visual Presentation.
         </p>
-        <button type='button' className='custom__button'>More</button>
+        <button type='button' className='custom__button'>View More</button>
       </div>
     </div>
   </div>
