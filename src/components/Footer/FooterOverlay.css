@@ -11,3 +11,7 @@
     height: 25%;
     background: var(--color-black);
 }
+
+.app__footerOverlay-img{
+    height: 75%;
+}
