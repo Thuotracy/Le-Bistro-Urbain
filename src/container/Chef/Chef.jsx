@@ -8,7 +8,7 @@ const Chef = () => (
   <div className='app__bg app__wrapper section__padding'>
     <div className='app__wrapper_info'>
       <SubHeading title=''/>
-      <h1 className='headtext__cornorant'>Our Belief</h1>
+      <h1 className='headtext__cormorant'>Our Belief</h1>
 
       <div className='app__chef-content'>
         <div className='app__chef-content_quote'>
