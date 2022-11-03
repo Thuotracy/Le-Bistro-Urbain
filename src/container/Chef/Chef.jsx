@@ -20,7 +20,7 @@ const Chef = () => (
     </div>
 
     <div className='app__wrapper_img app__wrapper_img_reverse'>
-      <img src={images.chef} alt="chef" />
+      <img src={images.chef} alt="chef" style={{borderRadius:"2rem", height:"450px"}} />
     </div>
   </div>
 );

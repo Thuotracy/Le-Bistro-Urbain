@@ -16,7 +16,7 @@ const Header = () => (
     </div>
 
     <div className='app__wrapper_img'>
-      <img src={images.welcome} alt='header img' style={{borderRadius:"2rem", height:"450px"}}/>
+      <img src={images.welcome} alt='header img' style={{borderRadius:"2rem", height:"450px",}}/>
     </div>
   </div>
 );
