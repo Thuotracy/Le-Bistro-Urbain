@@ -1,4 +1,4 @@
-/* .app__video{
+.app__video{
     height: 100vh;
     position: relative;
 }
@@ -21,4 +21,4 @@
     border-radius: 50%;
     border: 1 px solid var(--color-golden);
     cursor: pointer;
-} */
+}

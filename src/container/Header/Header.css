@@ -12,4 +12,11 @@
 
 .app__header-img img{
     width: 80%;
+   
+}
+
+.app__wrapper_img img{
+    border: 15px solid #DCCA87;
+    border-radius: 10px;
+    object-fit: cover;
 }
