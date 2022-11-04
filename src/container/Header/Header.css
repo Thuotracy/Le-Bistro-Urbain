@@ -16,7 +16,6 @@
 }
 
 .app__wrapper_img img{
-    border: 15px solid #DCCA87;
-    border-radius: 10px;
+    border: 10px solid #DCCA87;
     object-fit: cover;
 }

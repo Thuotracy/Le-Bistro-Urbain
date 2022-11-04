@@ -54,6 +54,7 @@
     margin: 2rem 0;
 }
 
+
 @media screen and (max-width: 2000px){
     .app__aboutus-content_knife img{
         height: 1000px;
