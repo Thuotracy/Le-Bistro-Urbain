@@ -28,7 +28,7 @@ const AboutUs = () => (
       </div>
 
       <div className='app__wrapper_img app__wrapper_img_reverse'>
-      <img src={images.chef} alt="chef" style={{borderRadius:"2rem", height:"450px"}} />
+      <img src={images.G} alt="chef" style={{borderRadius:"2rem", height:"450px"}} />
     </div>
 
       <div className='app__aboutus-content_history'>
