@@ -54,8 +54,33 @@
 
     .app__aboutus-content_about p,
     .app__aboutus-content_history p{
-    margin: 4rem 0;
+    margin: 4rem 4rem;
 }
+
+.app__aboutus-content_about h1{
+    margin: 0 4rem;
+}
+
+.app__aboutus-content_about img{
+    margin: 0 4rem;
+}
+
+.app__aboutus-content_history h1{
+    margin: 0 4rem;
+}
+
+.app__aboutus-content_history img{
+    margin: 0 4rem;
+}
+
+.app__aboutus-content_about button{
+    margin: 0 4rem;
+}
+
+.app__aboutus-content_history button{
+    margin: 0 4rem;
+}
+
 }
 
 @media screen and (max-width: 900px){

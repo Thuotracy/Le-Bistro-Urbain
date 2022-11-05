@@ -20,8 +20,10 @@ const Navbar = () => {
       <li className='p__opensans'><a href="#intro">Introduction</a></li>
       <li className='p__opensans'><a href="#contact">Contact</a></li>
     </ul>
+    
     <div className='app__navbar-login'>
-      <a href="/" className='p__opensans'>Make Reservation</a>
+    <div />
+      <a href="/" className='p__opensans' style={{position: "relative", right: "50px"}}>Make Reservation</a>
     </div>
     <div className='app__navbar-smallscreen'>
       <GiHamburgerMenu color='#fff' fontSize={27} onClick={() => setToggleMenu(true)}/>

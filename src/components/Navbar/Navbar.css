@@ -45,6 +45,12 @@
     border-bottom: 1px solid  var(--color-golden);
 }
 
+.app__navbar-login div {
+    width: 1px;
+    height: 30px;
+    background: var(--color-grey);
+}
+
 .app__navbar-smallscreen{
     display: none;
 }
