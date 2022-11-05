@@ -32,14 +32,6 @@
     text-align: right;
 }
 
-.app__aboutus-content_knife{
-    margin: 2rem 4rem;
-}
-
-.app__aboutus-content_knife img{
-    height: 700px;
-}
-
 .app__aboutus-content_history{
     flex: 1;
     display: flex;
@@ -78,7 +70,7 @@
 
 @media screen and (max-width: 650px){
     .app__aboutus-overlay img{
-        width: 70%;
+        width: 60%;
         height: 300px;
     }
 }

@@ -27,9 +27,9 @@ const AboutUs = () => (
         </button>
       </div>
 
-      <div className="app__specialMenu-menu_img">
-        <img src={images.G} alt="menu__img" style={{ width: "40gi0px"}}/>
-      </div>
+      <div className='app__wrapper_img app__wrapper_img_reverse'>
+      <img src={images.chef} alt="chef" style={{borderRadius:"2rem", height:"450px"}} />
+    </div>
 
       <div className='app__aboutus-content_history'>
         <h1 className='headtext__cormorant'>Our History</h1>
