@@ -34,8 +34,8 @@ const AboutUs = () => (
       <div className='app__aboutus-content_history'>
         <h1 className='headtext__cormorant'>Our History</h1>
         <img src={images.spoon} alt='about_spoon' className='spoon_img' />
-        <p className='P__opensans'>Lorem Ipsum, In Graphical And Textual Context,
-         Refers To Filler Text That Is Placed In A Document Or Visual Presentation. Refers To Filler Text That Is Placed In A Document Or Visual Presentation.
+        <p className='P__opensans'>
+         Le Bistro Urbain was founded in 1996, born out of love and respect for these Mexican deli creations by two brothers 'José.' and 'Santiago', who had a desire to bring quality ingredients to the table.
         </p>
         <button type='button' className='custom__button'>View More</button>
       </div>
