@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Le-Bistro-Urbain/static/css/main.83bd3e7d.css",
-    "main.js": "/Le-Bistro-Urbain/static/js/main.d3e8a358.js",
+    "main.js": "/Le-Bistro-Urbain/static/js/main.0359f8eb.js",
     "static/media/meal.mp4": "/Le-Bistro-Urbain/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg.png": "/Le-Bistro-Urbain/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/laurels.png": "/Le-Bistro-Urbain/static/media/laurels.e760828692795d4aafd7.png",
@@ -12,10 +12,13 @@
     "static/media/gallery03.png": "/Le-Bistro-Urbain/static/media/gallery03.4a44f965c463e924b2dc.png",
     "static/media/knife.png": "/Le-Bistro-Urbain/static/media/knife.1121c0a5afb62acb31cb.png",
     "static/media/overlaybg.png": "/Le-Bistro-Urbain/static/media/overlaybg.165362eea72d1614ae28.png",
-    "static/media/gallery06.png": "/Le-Bistro-Urbain/static/media/gallery06.150c3b6a0a24c7b75d0f.png",
     "static/media/welcome.png": "/Le-Bistro-Urbain/static/media/welcome.f4bfdd300ce59e3de7d1.png",
-    "static/media/gallery02.png": "/Le-Bistro-Urbain/static/media/gallery02.e57e83db370b02e9de52.png",
+    "static/media/gallery06.jpg": "/Le-Bistro-Urbain/static/media/gallery06.818739d0d0cb90211043.jpg",
+    "static/media/gallery02.webp": "/Le-Bistro-Urbain/static/media/gallery02.1d66760257853a7a5f54.webp",
     "static/media/chef.png": "/Le-Bistro-Urbain/static/media/chef.6893d3539b16bde20021.png",
+    "static/media/gallery07.jpg": "/Le-Bistro-Urbain/static/media/gallery07.472cab8e78e527f1f554.jpg",
+    "static/media/gallery05.jpg": "/Le-Bistro-Urbain/static/media/gallery05.a8d249dacc7a4e47c074.jpg",
+    "static/media/gallery08.jpg": "/Le-Bistro-Urbain/static/media/gallery08.b730e49325b122ce68dd.jpg",
     "static/media/G.png": "/Le-Bistro-Urbain/static/media/G.cff3f64ab8446f486573.png",
     "static/media/logo.png": "/Le-Bistro-Urbain/static/media/logo.0286194c03de0a90dac9.png",
     "static/media/award02.png": "/Le-Bistro-Urbain/static/media/award02.8bbdd51499739653b003.png",
@@ -26,10 +29,10 @@
     "index.html": "/Le-Bistro-Urbain/index.html",
     "static/media/spoon.svg": "/Le-Bistro-Urbain/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
     "main.83bd3e7d.css.map": "/Le-Bistro-Urbain/static/css/main.83bd3e7d.css.map",
-    "main.d3e8a358.js.map": "/Le-Bistro-Urbain/static/js/main.d3e8a358.js.map"
+    "main.0359f8eb.js.map": "/Le-Bistro-Urbain/static/js/main.0359f8eb.js.map"
   },
   "entrypoints": [
     "static/css/main.83bd3e7d.css",
-    "static/js/main.d3e8a358.js"
+    "static/js/main.0359f8eb.js"
   ]
 }
