@@ -18,9 +18,8 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon_img" />
         <p className="P__opensans">
-          Lorem Ipsum, In Graphical And Textual Context Refers To Filler Text
-          That Is Placed In A Document Or Visual Presentation. Refers To Filler
-          Text That Is Placed In A Document Or Visual Presentation.
+        At Le Bistro Urbain, the world feels like a bubbling Mexican Restaurant, with an infinite strand of pasta connecting everything and everyone.
+        The authentic taste comes from family recipes and from fresh, simple and tasteful ingredients.
         </p>
         <button type="button" className="custom__button">
           View More
@@ -28,7 +27,7 @@ const AboutUs = () => (
       </div>
 
       <div className='app__wrapper_img app__wrapper_img_reverse'>
-      <img src={images.G} alt="chef" style={{borderRadius:"2rem", height:"450px", width:"380px"}} />
+      <img src={images.G} alt="chef" style={{border:"1px solid #DCCA87", borderRadius:"1rem", height:"450px", width:"380px"}} />
     </div>
 
       <div className='app__aboutus-content_history'>
